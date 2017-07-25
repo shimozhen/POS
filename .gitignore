@@ -1,0 +1,7 @@
+*.pyc
+model/
+*.bak
+__pycache__/
+log/
+.idea/
+raw_data/
