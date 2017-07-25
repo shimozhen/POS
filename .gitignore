@@ -5,3 +5,4 @@ __pycache__/
 log/
 .idea/
 raw_data/
+reader_no_punc.py
