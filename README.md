@@ -63,7 +63,7 @@ Argument | Default | Description
 Default Data Params:
 
 Argument | Default
---- | --- | ---
+--- | --- 
 train_dir|./data/ctb.train
 test_dir|./data/ctb.dev"
 log_dir|./log/default_log/"
